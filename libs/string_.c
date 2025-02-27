@@ -1,4 +1,3 @@
-
 #include "string_.h"
 
 size_t strlen_(const char* begin) {
